@@ -14,7 +14,7 @@ Contributing
 License
 ## Setup
 Clone the repository:
-git clone https://github.com/yourusername/concerts-db.git
+git clone (https://github.com/Elviscryptic1981/concertsCD.git)
 cd concerts-db
 
 Set up the database: Run the setup_db.py script to create the database and tables.
